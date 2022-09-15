@@ -15,6 +15,70 @@
       "place": "Vijayawada",
       "batch_name": "WEB-18",
       "profession": "Frontend"
+    },
+    {
+      "id": 3,
+      "name": "Priya Deshmukh",
+      "age": 23,
+      "place": "Pune",
+      "batch_name": "WEB-16",
+      "profession": "FSD"
+    },
+    {
+      "id": 4,
+      "name": "Jay Pawar",
+      "age": 36,
+      "place": "Vijayanagar",
+      "batch_name": "WEB-17",
+      "profession": "Backend"
+    },
+    {
+      "id": 5,
+      "name": "Gita Narayan",
+      "age": 21,
+      "place": "Munbai",
+      "batch_name": "WEB-15",
+      "profession": "FSD"
+    },
+    {
+      "id": 6,
+      "name": "Magha Dhure",
+      "age": 29,
+      "place": "Kolkatta",
+      "batch_name": "WEB-13",
+      "profession": "Student"
+    },
+    {
+      "id": 7,
+      "name": "Pritam Mote",
+      "age": 25,
+      "place": "Panipat",
+      "batch_name": "WEB-13",
+      "profession": "FSD"
+    },
+    {
+      "id": 8,
+      "name": "Sagar Lohe",
+      "age": 26,
+      "place": "Kolkatta",
+      "batch_name": "WEB-15",
+      "profession": "Student"
+    },
+    {
+      "id": 9,
+      "name": "Gita Narayan",
+      "age": 21,
+      "place": "Munbai",
+      "batch_name": "WEB-16",
+      "profession": "Frontend"
+    },
+    {
+      "id": 10,
+      "name": "manish Sonar",
+      "age": 28,
+      "place": "Amravati",
+      "batch_name": "WEB-14",
+      "profession": "Backend"
     }
   ]
 }
