@@ -1,84 +1,87 @@
 {
-  "users": [
+  "cars": [
     {
       "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 600000
     },
     {
       "id": 2,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "Frontend"
+      "brand": "Audi",
+      "type": "Automated",
+      "year": 2018,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 900000
     },
     {
       "id": 3,
-      "name": "Priya Deshmukh",
-      "age": 23,
-      "place": "Pune",
-      "batch_name": "WEB-16",
-      "profession": "FSD"
+      "brand": "Tata",
+      "year": 2018,
+      "type": "Automated",
+      "kms": 5000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 800000
     },
     {
       "id": 4,
-      "name": "Jay Pawar",
-      "age": 36,
-      "place": "Vijayanagar",
-      "batch_name": "WEB-17",
-      "profession": "Backend"
+      "brand": "BMW",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 6000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 1000000
     },
     {
       "id": 5,
-      "name": "Gita Narayan",
-      "age": 21,
-      "place": "Munbai",
-      "batch_name": "WEB-15",
-      "profession": "FSD"
+      "brand": "Land Rover",
+      "year": 2019,
+      "type": "Automated",
+      "kms": 11000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 700000
     },
     {
       "id": 6,
-      "name": "Magha Dhure",
-      "age": 29,
-      "place": "Kolkatta",
-      "batch_name": "WEB-13",
-      "profession": "Student"
+      "brand": "BMW",
+      "type": "Manual",
+      "year": 2021,
+      "kms": 9000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     },
     {
       "id": 7,
-      "name": "Pritam Mote",
-      "age": 25,
-      "place": "Panipat",
-      "batch_name": "WEB-13",
-      "profession": "FSD"
+      "brand": "Honda",
+      "year": 2020,
+      "type": "Automated",
+      "kms": 3000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
       "id": 8,
-      "name": "Sagar Lohe",
-      "age": 26,
-      "place": "Kolkatta",
-      "batch_name": "WEB-15",
-      "profession": "Student"
-    },
+      "brand": "Audi",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 7000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 1000000
+    }
+  ],
+  "wishlisted_cars": [
     {
-      "id": 9,
-      "name": "Gita Narayan",
-      "age": 21,
-      "place": "Munbai",
-      "batch_name": "WEB-16",
-      "profession": "Frontend"
-    },
-    {
-      "id": 10,
-      "name": "manish Sonar",
-      "age": 28,
-      "place": "Amravati",
-      "batch_name": "WEB-14",
-      "profession": "Backend"
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Automated",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     }
   ]
 }
