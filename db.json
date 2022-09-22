@@ -1,87 +1,37 @@
 {
-  "cars": [
+  "hotels": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 600000
+      "category": "family",
+      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+      "type_of_room": "Ac",
+      "bed_type": "single",
+      "no_of_persons": "4",
+      "capacity": "2",
+      "cost": "3000",
+      "booked": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "brand": "Audi",
-      "type": "Automated",
-      "year": 2018,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 900000
+      "category": "deluxe",
+      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+      "type_of_room": "Non Ac",
+      "bed_type": "single",
+      "no_of_persons": "3",
+      "capacity": "2",
+      "cost": "6000",
+      "booked": false,
+      "id": 2
     },
     {
-      "id": 3,
-      "brand": "Tata",
-      "year": 2018,
-      "type": "Automated",
-      "kms": 5000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 800000
-    },
-    {
-      "id": 4,
-      "brand": "BMW",
-      "type": "Manual",
-      "year": 2020,
-      "kms": 6000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 1000000
-    },
-    {
-      "id": 5,
-      "brand": "Land Rover",
-      "year": 2019,
-      "type": "Automated",
-      "kms": 11000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 700000
-    },
-    {
-      "id": 6,
-      "brand": "BMW",
-      "type": "Manual",
-      "year": 2021,
-      "kms": 9000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "id": 7,
-      "brand": "Honda",
-      "year": 2020,
-      "type": "Automated",
-      "kms": 3000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 8,
-      "brand": "Audi",
-      "type": "Manual",
-      "year": 2018,
-      "kms": 7000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 1000000
-    }
-  ],
-  "wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Automated",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "category": "suite",
+      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+      "type_of_room": "Non Ac",
+      "bed_type": "single",
+      "no_of_persons": "4",
+      "capacity": "1",
+      "cost": "5000",
+      "booked": true,
+      "id": 3
     }
   ]
 }
