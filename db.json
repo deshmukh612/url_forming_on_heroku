@@ -1,48 +1,13 @@
 {
-  "hotels": [
+  "cart": [
     {
-      "category": "family",
-      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-      "type_of_room": "Ac",
-      "bed_type": "single",
-      "no_of_persons": "4",
-      "capacity": "2",
-      "cost": 3000,
-      "booked": false,
-      "id": 1
-    },
-    {
-      "category": "deluxe",
-      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-      "type_of_room": "Non Ac",
-      "bed_type": "single",
-      "no_of_persons": "3",
-      "capacity": "2",
-      "cost": 6000,
-      "booked": false,
-      "id": 2
-    },
-    {
-      "category": "suite",
-      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-      "type_of_room": "Non Ac",
-      "bed_type": "single",
-      "no_of_persons": "4",
-      "capacity": "1",
-      "cost": 5000,
-      "booked": false,
-      "id": 3
-    },
-    {
-      "category": "deluxe",
-      "image_url": "https://th.bing.com/th/id/OIP.QhgcvUp2HXb1V_c_rxw7UAHaFg?w=192&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-      "type_of_room": "Ac",
-      "bed_type": "single",
-      "no_of_persons": "3",
-      "capacity": "2",
-      "cost": 2335,
-      "booked": false,
-      "id": 4
+      "id": 47,
+      "name": "Averay",
+      "type": "fast_food",
+      "rating": 1,
+      "number_of_votes": 76,
+      "price_starts_from": 50,
+      "image": "https://picsum.photos/200"
     }
   ]
 }
