@@ -2,39 +2,32 @@
   "teacher": [
     {
       "id": 1,
-      "name": "Averay",
-      "type": "fast_food"
+      "username": "priya",
+      "email": "priya@gmail.com",
+      "password": "pri123"
       
     }
   ],
     "students": [
     {
+      "id": 1,
+      "name": "Gita Sarve",
+      "gender": "female",
+      "age": 23,
+      "test1": [{"tname": "mock1","sub": "Science","marks": 89,"Date": 24}],
+      "test2": [{"tname": "mock2","sub": "Math","marks": 67,"Date": 26}],
+      "image": "https://th.bing.com/th/id/OIP.rtaM-AfxZ9HSLOdFDeY5aAHaE8?pid=ImgDet&rs=1"
+    },
+    {
       "id": 2,
-      "name": "Averay",
-      "type": "game",
-      "rating": 1,
-      "number_of_votes": 12,
-      "price_starts_from": 2,
-      "image": "https://picsum.photos/200"
-    },
-    {
-      "id": 3,
-      "name": "Averay",
-      "type": "food",
-      "rating": 1,
-      "number_of_votes": 45,
-      "price_starts_from": 67,
-      "image": "https://picsum.photos/200"
-    },
-    {
-      "id": 4,
-      "name": "Averay",
-      "type": "wave",
-      "rating": 1,
-      "number_of_votes": 34,
-      "price_starts_from": 67,
-      "image": "https://picsum.photos/200"
+      "name": "Mira",
+      "gender": "female",
+      "age": 25,
+      "test1": [{"tname": "mock1","sub": "Science","marks": 56,"Date": 25}],
+      "test2": [{"tname": "mock2","sub": "Math","marks": 78,"Date": 12}],
+      "image": "https://th.bing.com/th/id/OIP.rtaM-AfxZ9HSLOdFDeY5aAHaE8?pid=ImgDet&rs=1"
     }
+    
 
   ]
 }
