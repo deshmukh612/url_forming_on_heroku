@@ -1,14 +1,13 @@
 {
-  "cart": [
+  "teacher": [
     {
       "id": 1,
       "name": "Averay",
-      "type": "fast_food",
-      "rating": 1,
-      "number_of_votes": 76,
-      "price_starts_from": 50,
-      "image": "https://picsum.photos/200"
-    },
+      "type": "fast_food"
+      
+    }
+  ],
+    "students": [
     {
       "id": 2,
       "name": "Averay",
