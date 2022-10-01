@@ -1,13 +1,41 @@
 {
   "cart": [
     {
-      "id": 47,
+      "id": 1,
       "name": "Averay",
       "type": "fast_food",
       "rating": 1,
       "number_of_votes": 76,
       "price_starts_from": 50,
       "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "name": "Averay",
+      "type": "game",
+      "rating": 1,
+      "number_of_votes": 12,
+      "price_starts_from": 2,
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "name": "Averay",
+      "type": "food",
+      "rating": 1,
+      "number_of_votes": 45,
+      "price_starts_from": 67,
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 4,
+      "name": "Averay",
+      "type": "wave",
+      "rating": 1,
+      "number_of_votes": 34,
+      "price_starts_from": 67,
+      "image": "https://picsum.photos/200"
     }
+
   ]
 }
