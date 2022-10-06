@@ -1,33 +1,200 @@
 {
-  "teacher": [
+  "general_Knowledge": [
     {
-      "id": 1,
-      "username": "priya",
-      "email": "priya@gmail.com",
-      "password": "pri123"
-      
-    }
-  ],
-    "students": [
-    {
-      "id": 1,
-      "name": "Gita Sarve",
-      "gender": "female",
-      "age": 23,
-      "test1": [{"tname": "mock1","sub": "Science","marks": 89,"Date": 24}],
-      "test2": [{"tname": "mock2","sub": "Math","marks": 67,"Date": 26}],
-      "image": "https://th.bing.com/th/id/OIP.rtaM-AfxZ9HSLOdFDeY5aAHaE8?pid=ImgDet&rs=1"
+      "category": "General_Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+      "correct_answer": "Cabbage Patch Kids",
+      "incorrect_answers": [
+        "Cabbage Patch Kids",
+        "Transformers",
+        "Care Bears",
+        "Rubik&rsquo;s Cube"
+      ]
     },
     {
-      "id": 2,
-      "name": "Mira",
-      "gender": "female",
-      "age": 25,
-      "test1": [{"tname": "mock1","sub": "Science","marks": 56,"Date": 25}],
-      "test2": [{"tname": "mock2","sub": "Math","marks": 78,"Date": 12}],
-      "image": "https://th.bing.com/th/id/OIP.rtaM-AfxZ9HSLOdFDeY5aAHaE8?pid=ImgDet&rs=1"
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On a dartboard, what number is directly opposite No. 1?",
+      "correct_answer": "19",
+      "incorrect_answers": ["19", "20", "12", "15"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country has the union jack in its flag?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "New Zealand",
+        "South Africa",
+        "Canada",
+        "Hong Kong"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which river flows through the Scottish city of Glasgow?",
+      "correct_answer": "Clyde",
+      "incorrect_answers": ["Clyde", "Tay", "Dee", "Tweed"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+      "correct_answer": "Shiatsu",
+      "incorrect_answers": ["Shiatsu", "Ukiyo", "Majime", "Ikigai"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following carbonated soft drinks were introduced first?",
+      "correct_answer": "Dr. Pepper",
+      "incorrect_answers": ["Dr. Pepper", "Coca-Cola", "Sprite", "Mountain Dew"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": ["28%", "13%", "20%", "7%"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was Bank of America originally established as?",
+      "correct_answer": "Bank of Italy",
+      "incorrect_answers": [
+        "Bank of Italy",
+        "Bank of Long Island",
+        "Bank of Pennsylvania",
+        "Bank of Charlotte"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;abulia&quot; means which of the following?",
+      "correct_answer": "The inability to make decisions",
+      "incorrect_answers": [
+        "The inability to make decisions",
+        "The inability to stand up",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one&#039;s clothes off"
+      ]
     }
-    
-
+  ],
+  "art": [
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted The Starry Night?",
+      "correct_answer": "Vincent van Gogh",
+      "incorrect_answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+      "correct_answer": "The Starry Night",
+      "incorrect_answers": [
+        "The Starry Night",
+        "Wheatfields with Crows",
+        "The Sower with Setting Sun",
+        "The Church at Auvers"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which painting was not made by Vincent Van Gogh?",
+      "correct_answer": "The Ninth Wave",
+      "incorrect_answers": [
+        "The Ninth Wave",
+        "Caf&eacute; Terrace at Night",
+        "Bedroom In Arles",
+        "Starry Night"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+      "correct_answer": "Andy Warhol",
+      "incorrect_answers": [
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "David Hockney",
+        "Peter Blake"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+      "correct_answer": "Georges Seurat",
+      "incorrect_answers": [
+        "Georges Seurat",
+        "Paul C&eacute;zanne",
+        "Vincent Van Gogh",
+        "Henri Rousseau"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who painted the epic mural Guernica?",
+      "correct_answer": "Pablo Picasso",
+      "incorrect_answers": [
+        "Pablo Picasso",
+        "Francisco Goya",
+        "Leonardo da Vinci",
+        "Henri Matisse"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+      "correct_answer": "Neoplasticism",
+      "incorrect_answers": ["Neoplasticism","Precisionism", "Cubism", "Impressionism"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+      "correct_answer": "1502",
+      "incorrect_answers": ["1502","1702", "1402", "1602"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+      "correct_answer": "Post-Impressionism",
+      "incorrect_answers": ["Post-Impressionism","Romanticism", "Neoclassical", "Impressionism"]
+    }
   ]
 }
