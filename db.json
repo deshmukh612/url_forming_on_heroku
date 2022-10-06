@@ -1,6 +1,64 @@
 {
   "general_Knowledge": [
     {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many colors are there in a rainbow?",
+      "correct_answer": "7",
+      "incorrect_answers": ["7", "8", "9", "10"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who invented the first ever chocolate bar, in 1847?",
+      "correct_answer": "Joseph Fry",
+      "incorrect_answers": [
+        "Joseph Fry",
+        "Andrew Johnson",
+        "John Cadbury",
+        "John Tyler"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of currency in Laos?",
+      "correct_answer": "Kip",
+      "incorrect_answers": ["Kip", "Ruble", "Konra", "Dollar"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a dead mall?",
+      "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+      "incorrect_answers": [
+        "A mall with high vacancy rates or low consumer foot traffic",
+        "A mall with no stores",
+        "A mall that has been condemed",
+        "A mall after business hours"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+      "correct_answer": "India",
+      "incorrect_answers": ["India", "Papua New Guinea", "Ethiopia", "China"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": ["28%", "13%", "20%", "7%"]
+    },
+    {
       "category": "General_Knowledge",
       "type": "multiple",
       "difficulty": "easy",
@@ -136,6 +194,58 @@
     {
       "category": "Art",
       "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the Sistine Chapel?",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Raphael"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": [
+        "Salvador Dali",
+        "Jackson Pollock",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+      "correct_answer": "Georges Seurat",
+      "incorrect_answers": [
+        "Georges Seurat",
+        "Paul C&eacute;zanne",
+        "Vincent Van Gogh",
+        "Henri Rousseau"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who painted the epic mural Guernica?",
+      "correct_answer": "Pablo Picasso",
+      "incorrect_answers": [
+        "Pablo Picasso",
+        "Francisco Goya",
+        "Leonardo da Vinci",
+        "Henri Matisse"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
       "difficulty": "medium",
       "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
       "correct_answer": "Andy Warhol",
@@ -176,9 +286,35 @@
       "category": "Art",
       "type": "multiple",
       "difficulty": "hard",
+      "question": "Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+      "correct_answer": "N&uuml",
+      "incorrect_answers": ["N&uuml", "Augsburg", "Bamberg", "Berlin"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not an additional variation of the color purple?",
+      "correct_answer": "Kobicha",
+      "incorrect_answers": [
+        "Kobicha",
+        "Byzantium",
+        "Pomp and Power",
+        "Palatinate"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "hard",
       "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
       "correct_answer": "Neoplasticism",
-      "incorrect_answers": ["Neoplasticism","Precisionism", "Cubism", "Impressionism"]
+      "incorrect_answers": [
+        "Neoplasticism",
+        "Precisionism",
+        "Cubism",
+        "Impressionism"
+      ]
     },
     {
       "category": "Art",
@@ -186,7 +322,7 @@
       "difficulty": "hard",
       "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
       "correct_answer": "1502",
-      "incorrect_answers": ["1502","1702", "1402", "1602"]
+      "incorrect_answers": ["1502", "1702", "1402", "1602"]
     },
     {
       "category": "Art",
@@ -194,10 +330,352 @@
       "difficulty": "hard",
       "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
       "correct_answer": "Post-Impressionism",
-      "incorrect_answers": ["Post-Impressionism","Romanticism", "Neoclassical", "Impressionism"]
+      "incorrect_answers": [
+        "Post-Impressionism",
+        "Romanticism",
+        "Neoclassical",
+        "Impressionism"
+      ]
     }
   ],
-  "students": [
-    
-  ]
+  "politics": [
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Pacific Islander countries is ruled by a constitutional monarchy?",
+      "correct_answer": "Tonga",
+      "incorrect_answers": ["Tonga", "Palau", "Fiji", "Kiribati"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The largest consumer market in 2015 was...",
+      "correct_answer": "The United States of America",
+      "incorrect_answers": [
+        "The United States of America",
+        "Germany",
+        "Japan",
+        "United Kingdom"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the United States Constitution, how old must a person be to be elected President of the United States?",
+      "correct_answer": "35",
+      "incorrect_answers": ["35", "30", "40", "45"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the 45th President of the United States?",
+      "correct_answer": "Donald Trump",
+      "incorrect_answers": [
+        "Donald Trump",
+        "Barack Obama",
+        "Bill Clinton",
+        "George Bush"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Former United States President Bill Clinton famously played which instrument?",
+      "correct_answer": "Saxophone",
+      "incorrect_answers": ["Saxophone", "Baritone horn", "Piano", "Violin"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+      "correct_answer": "True Conservative Radio",
+      "incorrect_answers": [
+        "True Conservative Radio",
+        "True Republican Radio",
+        "Texan Capitalist Radio",
+        "United Capitalists"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was elected leader of the UK Labour Party in September 2015?",
+      "correct_answer": "Jeremy Corbyn",
+      "incorrect_answers": [
+        "Jeremy Corbyn",
+        "Ed Miliband",
+        "David Cameron",
+        "Theresa May"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Before 2016, in which other year did Donald Trump run for President?",
+      "correct_answer": "2000",
+      "incorrect_answers": ["2000", "2012", "1988", "2008"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "correct_answer": "Nikita Khrushchev",
+      "incorrect_answers": [
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+      "correct_answer": "Justin and Pierre",
+      "incorrect_answers": [
+        "Justin and Pierre",
+        "John and Louis",
+        "Brian and Justin",
+        "Brian and Pierre"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+      "correct_answer": "The Prince",
+      "incorrect_answers": [
+        "The Prince",
+        "The Rape of Lucrece",
+        "Will to Power",
+        "Love&#039;s Labours Lost"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these was an official candidate in the 2017 British General Election?",
+      "correct_answer": "Lord Buckethead",
+      "incorrect_answers": [
+        "Lord Buckethead",
+        "James Francis",
+        "Robert Wimbledon",
+        "Sir Crumpetsby"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "Qatar",
+        "Bahrain",
+        "United States of America",
+        "Russia"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+      "correct_answer": "Robert Byrd",
+      "incorrect_answers": [
+        "Robert Byrd",
+        "Daniel Inouye",
+        "Strom Thurmond",
+        "Joe Biden"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the only US president to serve two non-consecutive terms in office?",
+      "correct_answer": "Grover Cleveland",
+      "incorrect_answers": [
+        "Grover Cleveland",
+        "James K. Polk",
+        "Franklin D. Roosevelt",
+        "Thomas Jefferson"
+      ]
+    }
+  ],
+  "sports": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+      "correct_answer": "7 - 1",
+      "incorrect_answers": ["7 - 1", "0 - 1", "3 - 4", "16 - 0"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the first official international game played?",
+      "correct_answer": "1872",
+      "incorrect_answers": ["1872", "1880", "1863", "1865"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+      "correct_answer": "Roger Federer",
+      "incorrect_answers": [
+        "Roger Federer",
+        "Bill Tilden",
+        "Boris Becker",
+        "Pete Sampras"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+      "correct_answer": "Sunderland FC",
+      "incorrect_answers": [
+        "Sunderland FC",
+        "Barcelona FC",
+        "Paris Saints-Germain",
+        "Manchester United"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the UEFA Champions League in 2016?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": [
+        "Real Madrid C.F.",
+        "FC Bayern Munich",
+        "Atletico Madrid",
+        "Manchester City F.C."
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which team was the 2015-2016 NBA Champions?",
+      "correct_answer": "Cleveland Cavaliers",
+      "incorrect_answers": [
+        "Cleveland Cavaliers",
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Oklahoma City Thunders"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest team in Major League Baseball?",
+      "correct_answer": "Atlanta Braves",
+      "incorrect_answers": [
+        "Atlanta Braves",
+        "Chicago Cubs",
+        "Cincinnati Reds",
+        "St. Louis Cardinals"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+      "correct_answer": "84.39m",
+      "incorrect_answers": ["84.39m", "100m", "100yd", "109.36yd"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+      "correct_answer": "Shaquille O&#039;Neal",
+      "incorrect_answers": [
+        "Shaquille O&#039;Neal",
+        "Allen Iverson",
+        "Kobe Bryant",
+        "Paul Pierce"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What country hosted the 2014 Winter Olympics?",
+      "correct_answer": "Russia",
+      "incorrect_answers": ["Russia", "Canada", "United States", "Germany"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Moscow", "Barcelona", "Tokyo", "Los Angeles"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+      "correct_answer": "Pittsburgh",
+      "incorrect_answers": ["Pittsburgh", "New York", "Seattle", "Tampa Bay"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+      "correct_answer": "1991",
+      "incorrect_answers": ["1991", "1990", "2000", "1987"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "correct_answer": "Vladivostok",
+      "incorrect_answers": [
+        "Vladivostok",
+        "Rostov-on-Don",
+        "Yekaterinburg",
+        "Kaliningrad"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The AHL affiliate team of the Boston Bruins is named what?",
+      "correct_answer": "Providence Bruins",
+      "incorrect_answers": [
+        "Providence Bruins",
+        "New Haven Bruins",
+        "Cambridge Bruins",
+        "Hartford Bruins"
+      ]
+    }
+  ],
+  "students": []
 }
